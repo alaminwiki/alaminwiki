@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/PCB_Design-4--Layer-0e75b6?style=flat" alt="4-layer-pcb" height="35"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" height="35"/>
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE" height="35"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F36523?style=flat&logo=platformio&logoColor=white" alt="PlatformIO" height="35"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" height="35"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="35"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="35"/>
@@ -38,14 +39,13 @@
   <img src="https://img.shields.io/badge/TinyML_/_Edge_AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TinyML" height="35"/>
 </p>
 
-#### 🔧 Languages & Frameworks
+#### 🔧 Languages & OS
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="35"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="35"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="35"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="35"/>
   <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=flat" alt="MATLAB" height="35"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="35"/>
 </p>
 
 ---
